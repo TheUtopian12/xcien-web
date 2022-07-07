@@ -5,7 +5,7 @@ import Example from "./pages/Example";
 function App() {
   return (
     <>
-      <p>Hola desde App</p>
+      <p style={{textAlign:"center", fontSize:"2rem"}}>Hola desde App</p>
       <Example />
     </>
   );
